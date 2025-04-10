@@ -94,3 +94,35 @@ docker run -p 3000:3000 my-node-app
 
 
 MAIN.TF: The main.tf file is a primary configuration file used in Terraform to define infrastructure resources. While Terraform doesn't require the file to be named main.tf, it's a common naming convention to keep the code organized, especially in larger projects. You can break up the configuration into multiple .tf files, and Terraform will read them all in the same directory.
+
+
+![Screenshot (77)](https://github.com/user-attachments/assets/ed59b2f6-7e53-493b-95f9-602e8a0bc801)
+
+
+![Screenshot (78)](https://github.com/user-attachments/assets/57887c48-b1af-4f1c-80d3-817b4ca88429)
+
+
+
+![Screenshot (80)](https://github.com/user-attachments/assets/995eca6e-e0ab-48e0-828d-f4d4b555c7c1)
+
+![Screenshot (81)](https://github.com/user-attachments/assets/df65af37-01ce-43ea-9c80-b3e95051f99a)
+
+
+![Screenshot (82)](https://github.com/user-attachments/assets/0db4ab48-7f0b-45e6-bcb5-0fca9cc5fb44)
+
+
+![Screenshot (84)](https://github.com/user-attachments/assets/ae2d49f3-6d74-41af-beef-d0f05c5844f1)
+
+![Screenshot (85)](https://github.com/user-attachments/assets/2f21dc89-e823-4f3b-8013-d3a7ab68bb42)
+
+
+
+![Screenshot (86)](https://github.com/user-attachments/assets/a3dd3c66-23f3-40cd-8339-2eab1a3d27e3)
+
+![Screenshot (87)](https://github.com/user-attachments/assets/d4bb67ac-9136-43f0-a7a9-0c618dec9f6b)
+
+
+![Screenshot (88)](https://github.com/user-attachments/assets/664c840e-1ca8-4b7f-bde0-a6d076960e9e)
+
+
+![Screenshot (91)](https://github.com/user-attachments/assets/21ae59bf-ffc6-46da-9dac-cdf07c0b8978)
