@@ -129,7 +129,6 @@ MAIN.TF: The main.tf file is a primary configuration file used in Terraform to d
 
 
 
-terraform init
 
 
 
