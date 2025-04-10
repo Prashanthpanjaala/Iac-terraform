@@ -92,3 +92,5 @@ docker run -p 3000:3000 my-node-app
 
 ---
 
+
+MAIN.TF: The main.tf file is a primary configuration file used in Terraform to define infrastructure resources. While Terraform doesn't require the file to be named main.tf, it's a common naming convention to keep the code organized, especially in larger projects. You can break up the configuration into multiple .tf files, and Terraform will read them all in the same directory.
